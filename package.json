@@ -17,18 +17,7 @@
     "registration",
     "code"
   ],
-  "exports": {
-    ".": {
-      "import": {
-        "types": "./lib/esm/types/index.d.ts",
-        "default": "./lib/esm/index.mjs"
-      },
-      "require": {
-        "types": "./lib/cjs/types/index.d.ts",
-        "default": "./lib/cjs/index.js"
-      }
-    }
-  },
+  
   "author": "Janick-Fabian Koder",
   "license": "Apache-2.0",
   "bugs": {
