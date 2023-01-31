@@ -1,6 +1,6 @@
 {
   "name": "international-vehicle-registration-code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A JS Module and JSON-Map for Car Codes \"International vehicle registration code\"",
   "main": "index.js",
   "scripts": {
